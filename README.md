@@ -45,8 +45,8 @@ pip install -r requirements.txt
 
 ## File Paths (Default)
 
-- **Input PDF:** `D:\ObedVideos\medication list\extractor\data\GHANA_EML_2017.pdf`
-- **Output CSV:** `D:\ObedVideos\medication list\extractor\output\medication_extractor_with_headers.csv`
+- **Input PDF:** `D:\..\medication list\extractor\data\GHANA_EML_2017.pdf`
+- **Output CSV:** `D:\..\medication list\extractor\output\medication_extractor_with_headers.csv`
 
 ## Notes
 

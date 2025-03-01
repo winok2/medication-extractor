@@ -20,6 +20,6 @@ def extract_tables_from_pdf(pdf_path, output_csv):
         print("No tables found in the PDF.")
 
 # Example usage
-pdf_path = r"D:\ObedVideos\medication list\extractor\data\GHANA_EML_2017.pdf"  # Change to your local PDF file path
-output_csv = r"D:\ObedVideos\medication list\extractor\output\medication_extractor_with_headers.csv"  # Output CSV file path
+pdf_path = r"D:\...\medication list\extractor\data\GHANA_EML_2017.pdf"  # Change to your local PDF file path
+output_csv = r"D:\...\medication list\extractor\output\medication_extractor_with_headers.csv"  # Output CSV file path
 extract_tables_from_pdf(pdf_path, output_csv)
